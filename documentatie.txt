@@ -1,0 +1,9 @@
+	Udrea Marius Razvan	
+		Grupa 332AA
+
+	- Programul deseneaza o stea din caracterul asterisk (*) si apoi ii schimba culoarea
+	- La baza programului sta o matrice de 16 x 16 cu elemente de 0 si 1
+	- Programul parcurge matricea pe linii, atunci cand gaseste 1, pune *
+	- De fiecare data cand programul printeaza un asterisk, se aude un bip (procedura beep)
+	- Animatia consta in schimbarea culorii odata ce steaua este completa, adica suprascrierea 
+	  de simbolurilor * peste cele precedente cu o culoare diferita
